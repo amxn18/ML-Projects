@@ -1,6 +1,6 @@
 # Machine Learning Projects Repository 🚀
 
-Welcome to the repository containing all of my **Machine Learning projects**! This repo showcases various ML models and techniques, including data preprocessing, training, and evaluation for each project.
+Welcome to the repository containing **Machine Learning projects**! This repo showcases various ML models and techniques, including data preprocessing, training, and evaluation for each project.
 
 ## Repository Overview 📂
 
