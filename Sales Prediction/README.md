@@ -3,12 +3,6 @@
  This machine learning project predicts retail item sales using structured data features. The model is trained using the XGBoost Regressor,
  known for its performance and scalability on tabular datasets.
 
-
-📁 Project Structure:
- ├── salesData.csv            # Input dataset
- ├── sales_prediction.py      # Main Python script
- └── README.sh                # This README (bash format)
-
 🧠 Project Workflow:
  1. Load dataset
  2. Handle missing values
