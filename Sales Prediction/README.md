@@ -1,5 +1,5 @@
 # 📊 Sales Prediction Using XGBoost Regressor
-# --------------------------------------------
+
  This machine learning project predicts retail item sales using structured data features. The model is trained using the XGBoost Regressor,
  known for its performance and scalability on tabular datasets.
 
