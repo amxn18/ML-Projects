@@ -1,4 +1,5 @@
 # 🩺 Breast Cancer Classification Project 🧬
+🔗 [🧪 Click here to try the deployed app](https://checkforbreastcancer.streamlit.app/)  
 A machine learning project to classify whether a tumor is **Benign** or **Malignant** using real-world breast cancer data.
 
 ## 📂 Dataset
