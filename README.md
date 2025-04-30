@@ -4,7 +4,11 @@ Welcome to the ultimate collection of **Machine Learning projects**!
 This repo showcases a variety of ML models and techniques including data preprocessing, training, and evaluation — all built with ❤️ and Python 🐍.
 
 ────────────────────────────────────────────
-
+# Links For Deployed Projects 
+1) Movie Recommendation: https://moviesyoumaylike.streamlit.app/
+2) Sales Prediction:
+3) Breast Cancer Prediction:
+4) 
 📂 Repository Overview
 
 This main repository includes **18 Machine Learning projects**.  
