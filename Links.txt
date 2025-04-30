@@ -1,4 +1,0 @@
-# Deployed Projects Links
-1) Movie Recommendation: https://moviesyoumaylike.streamlit.app/
-2) Sales Prediction: 
-3) Breast Cancer Prediction: 
