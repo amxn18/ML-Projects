@@ -10,9 +10,10 @@ This repo showcases a variety of ML models and techniques including data preproc
 3) Breast Cancer Prediction: https://checkforbreastcancer.streamlit.app/
 4) Spam Mail Detection: https://checkforspammail.streamlit.app/
 5) Customer Segmentation: https://knowyourcustomers.streamlit.app/
-6) Fake News Prediction: 
-7) House Price Prediction:
-8) Loan Status Prediction:
+6) Fake News Prediction: https://knowaboutnewss.streamlit.app/
+7) House Price Prediction: https://estimatedhouseprice.streamlit.app/
+8) Loan Status Prediction: https://approvalstatus.streamlit.app/
+
 📂 Repository Overview
 
 This main repository includes **18 Machine Learning projects**.  
