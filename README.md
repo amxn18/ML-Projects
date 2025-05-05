@@ -13,6 +13,7 @@ This repo showcases a variety of ML models and techniques including data preproc
 6) Fake News Prediction: https://knowaboutnewss.streamlit.app/
 7) House Price Prediction: https://estimatedhouseprice.streamlit.app/
 8) Loan Status Prediction: https://approvalstatus.streamlit.app/
+9) Rainfall Prediction: https://predictrainfall.streamlit.app/
 
 📂 Repository Overview
 
