@@ -1,7 +1,7 @@
 # 🚀 Machine Learning Projects Repository
 
 Welcome to the ultimate collection of **Machine Learning projects**!  
-This repo showcases a variety of ML models and techniques including data preprocessing, training, and evaluation — all built with ❤️ and Python 🐍.
+This repo showcases a variety of ML models and techniques including data preprocessing, training, and evaluation 
 
 ────────────────────────────────────────────
 # Links For Deployed Projects 
